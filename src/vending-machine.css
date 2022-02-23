@@ -1,0 +1,10 @@
+.container {
+    width: 80vw;
+    margin-top: auto;
+    text-align: center;
+}
+
+#greeting img {
+    width: 20rem;
+}
+

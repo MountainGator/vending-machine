@@ -1,0 +1,38 @@
+.food-holder {
+    width: 40vw;
+    margin: auto;
+    background-color: lightgrey;
+}
+
+.food-img {
+    width: 70%;
+}
+
+.food-holder h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 3rem;
+    display: block;
+}
+
+.link-holder {
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: lightgrey;
+    width: 20vw;
+    display: inline-block;
+}
+
+.link-holder a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 3rem;
+    text-decoration: none;
+    
+}
+
+.holder {
+    display: block;
+    margin-bottom: 1rem;
+}
